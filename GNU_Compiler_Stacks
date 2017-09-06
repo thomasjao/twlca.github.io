@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <title>GNU Compiler Collection</title>
+</head>
+<body>
+  <h1>GNU Compiler Collection</h1>
+  <ul>
+    <li><a href="https://gcc.gnu.org">GNU Compiler Collection</a></li>
+    <li><a href="https://www.gnu.org/software/libtool/manual/libtool.html">Libtool
+      <ul>
+        <li><a href="https://www.gnu.org/software/libtool/manual/libtool.html#Creating-object-files">Creating Object Files</a></li>
+        <li><a href="https://www.gnu.org/software/libtool/manual/libtool.html#Linking-libraries">Linking Libraries</a></li>
+        <li><a href="https://www.gnu.org/software/libtool/manual/libtool.html#Linking-executables">Linking Executables</a></li>
+        <li><a href="https://www.gnu.org/software/libtool/manual/libtool.html#Debugging-executables">Debuggin Executables</a></li>
+        <li><a href="https://www.gnu.org/software/libtool/manual/libtool.html#Installing-libraries">Installing Libraries</a></li>
+        <li><a href="https://www.gnu.org/software/libtool/manual/libtool.html#Installing-executables">Installing Executables</a></li>
+        <li><a href="https://www.gnu.org/software/libtool/manual/libtool.html#Static-libraries">Static Libraries</a></li>
+      </ul>
+    </li>
+    <li><a href="https://www.gnu.org/software/autoconf/manual/autoconf.html#Input">Autoconf</a></li>
+    <li><a href="https://www.gnu.org/software/automake/">Automake</a></li>
+  </ul>
+</body>
+</html>
