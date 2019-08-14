@@ -1,5 +1,5 @@
 <svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
+<!--  <defs>
     <!-- Group of xy-axis -->
   // x-axis
   <g id="x-axis">
@@ -24,7 +24,7 @@
   <use xlink:href="#x-axis" x="0" y="0" />
   <use xlink:href="#y-axis" x="0" y="0" />
   <use xlink:href="#x-axis" x="0" y="0" transform="translate(100 0)" />
-  <use xlink:href="#y-axis" x="0" y="0" transform="translate(100 0)"/>
+  <use xlink:href="#y-axis" x="0" y="0" transform="translate(100 0)"/> -->
 
   <!-- Another method to quickly draw arrows of both axises -->
   <g id="xy-axis">
