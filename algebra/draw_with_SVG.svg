@@ -28,7 +28,7 @@
 
   <!-- Another method to quickly draw arrows of both axises -->
   <g id="xy-axis">
-    <path d="M75 25 L80 26 80 24M130 25 L125 24 125 26 M101 5L100 10 102 10M101 50L100 45 102 45"/>. // draw four arrows in single path
+    <path d="M75 25 L80 26 80 24M130 25 L125 24 125 26 M101 5L100 10 102 10M101 50L100 45 102 45"/>
     <line x1="75" y1="25" x2="125" y2="25" style="stroke:rgb(0,0,0);stroke-width: 0.3px;" />
     <line x1="101" y1="5" x2="101" y2="50" style="stroke:rgb(0,0,0);stroke-width: 0.3px;" /> 
   </g>
