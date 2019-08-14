@@ -1,4 +1,3 @@
-<p style="font-family: Bodoni 72 Oldstyle Book Italic">Thanks for the article Léonie, after all these years I had no idea you could have more than one element in an SVG.</p>
 <svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Group of xy-axis -->
