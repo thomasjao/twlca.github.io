@@ -25,3 +25,8 @@ $$\triangle=\frac{a^2\sin B\sin C}{2\sin A}=\frac{b^2\sin C\sin A}{2\sin B}=\fra
 (五) 設 $\triangle ABC$ 之內接圓半徑為 $r$，
      則 $\triangle=sr$
      且 $r=\sqrt{\frac{(s-a)(s-b)(s-c)}{s}}$
+     
+### 13 三角形外接圓半徑與內切圓半徑之關係
+設外接圓半徑為 $R$，內切接半徑為 $r$，則
+$$r=$R\sin\dfrac{A}{2}\sin\dfrac{B}{2}\sin\dfrac{C}{2}$$
+\[\begin{equation} a &= b \\ b&= c \\ \textrm{則} a &= c\end{equation}\]
