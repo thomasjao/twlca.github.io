@@ -8,4 +8,4 @@
      若 $\angle A\lt 90^\circ$，則 $h=b\sin A$    
      若 $\angle A\gt 90^\circ$，則 $h=b\sin\angle CAD=b\sin A$   
      將此代入上式，均得     
-     同理可證，$$\begin{array}\\ \triangle=\frac{1}{2}bc\sin A \\ \triangle=\frac{1}{2}ca\sin B \\ \triangle=\frac{1}{2}ab\sin C\end{array}$$
+     同理可證，$$\begin{align} \triangle &=\frac{1}{2}bc\sin A \\ \triangle &=\frac{1}{2}ca\sin B \\ \triangle &=\frac{1}{2}ab\sin C\end{align}$$
