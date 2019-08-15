@@ -11,14 +11,17 @@
      同理可證，$$\begin{align} \triangle &=\frac{1}{2}bc\sin A \\ \triangle &=\frac{1}{2}ca\sin B \\ \triangle &=\frac{1}{2}ab\sin C\end{align}$$
      
 (二) 已知兩角及一邊：
-$$\triangle=\frac{a^2\sin B\sin C}{2\sin A}=\frac{b^2\sin C\sinc A}{2\sin B}=\frac{c^2\sin A\sin B}{2\sin C}$$
+$$\triangle=\frac{a^2\sin B\sin C}{2\sin A}=\frac{b^2\sin C\sin A}{2\sin B}=\frac{c^2\sin A\sin B}{2\sin C}$$
 
 (三) 已知三邊：
 $$\triangle=\sqrt{s(s-a)(s-b)(s-c)}\qquad(\textrm{Heron 氏公式})
 
 (四） 外接圓半徑
-$$\begin{enumerate} \item[i] \frac{a}{\sin A}=\frac{b}{\sin B}=\frac{c}{\sin C}=2R \item[ii] R=\frac{a}{2\sin A}=\frac{abc}{2bc\sin A}=\frac{abc}{4\triangle} \item[iii] $\triangle=\frac{abc}{4R} \end{enumerate}$$
 
-(五) 設 $\trangle ABC$ 之內接圓半徑為 $r$，
+1. $\frac{a}{\sin A}=\frac{b}{\sin B}=\frac{c}{\sin C}=2R$
+2. $R=\frac{a}{2\sin A}=\frac{abc}{2bc\sin A}=\frac{abc}{4\triangle}$
+3. $\triangle=\frac{abc}{4R}$
+
+(五) 設 $\triangle ABC$ 之內接圓半徑為 $r$，
      則 $\triangle=sr$
-     且 $r=\sqrt{\frac{(s-a)(s-b)(s-c)}{s}$
+     且 $r=\sqrt{\frac{(s-a)(s-b)(s-c)}{s}}$
