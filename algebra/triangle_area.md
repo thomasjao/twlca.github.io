@@ -14,7 +14,7 @@
 $$\triangle=\frac{a^2\sin B\sin C}{2\sin A}=\frac{b^2\sin C\sin A}{2\sin B}=\frac{c^2\sin A\sin B}{2\sin C}$$
 
 (三) 已知三邊：
-$$\triangle=\sqrt{s(s-a)(s-b)(s-c)}\qquad(\textrm{Heron 氏公式})
+\[\triangle=\sqrt{s(s-a)(s-b)(s-c)}\qquad(\textrm{Heron 氏公式})\]
 
 (四） 外接圓半徑
 
