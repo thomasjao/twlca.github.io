@@ -1,0 +1,89 @@
+[
+  {
+    "attribute": "accesskey"
+  },
+  {
+    "attribute": "autocapitalize"
+  },
+  {
+    "attribute": "class"
+  },
+  {
+    "attribute": "contenteditable"
+  },
+  {
+    "attribute": "data-*"
+  },
+  {
+    "attribute": "dir"
+  },
+  {
+    "attribute": "draggable"
+  },
+  {
+    "attribute": "dropzone"
+  },
+  {
+    "attribute": "exportparts"
+  },
+  {
+    "attribute": "hidden"
+  },
+  {
+    "attribute": "id"
+  },
+  {
+    "attribute": "inputmode"
+  },
+  {
+    "attribute": "is"
+  },
+  {
+    "attribute": "itemid"
+  },
+  {
+    "attribute": "itemprop"
+  },
+  {
+    "attribute": "itemref"
+  },
+  {
+    "attribute": "itemscope"
+  },
+  {
+    "attribute": "lang"
+  },
+  {
+    "attribute": "part"
+  },
+  {
+    "attribute": "slot"
+  },
+  {
+    "attribute": "spellcheck"
+  },
+  {
+    "attribute": "style"
+  },
+  {
+    "attribute": "tabindex"
+  },
+  {
+    "attribute": "title"
+  },
+  {
+    "attribute": "translate"
+  },
+  {
+    "attribute": "aria-*"
+  },
+  {
+    "attribute": "on(actions)"
+  },
+  {
+    "attribute": "xml:lang"
+  },
+  {
+    "attribute": "xml:base"
+  }
+]
